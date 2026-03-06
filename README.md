@@ -2,9 +2,15 @@
 
 **Final Project Report (MVP Version)**
 
-**Submitted by:** GROUP name  
-**Course/Assignment:** [Insert your course name & assignment title here]  
+**Submitted by:** GROUP 12  
+**Course/Assignment:** [Student-course-regsitration]  
 **Date:** March 2026
+
+## GROUP MEMBERS
+-Sussana Mensah -  052441360135
+-Akua Adutwumwaa - 052441360308
+-Golo Edem - 052541360353
+-Sadat Alhassan - 052441360052
 
 ## 1. Project Overview
 
